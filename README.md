@@ -94,7 +94,7 @@ CORS_ORIGIN=*
 ## Testing
 Run tests with Postman:
 
-1. Import [Postman Collection](#)https://www.postman.com/bettest/authentication-api/collection/hhu9266/auth-system?action=share&creator=36861719&active-environment=36861719-ddf84d9f-f188-4033-8237-c8875928df46
+1. Import [Postman Collection](https://www.postman.com/bettest/authentication-api/collection/hhu9266/auth-system?action=share&creator=36861719&active-environment=36861719-ddf84d9f-f188-4033-8237-c8875928df46)
 2. Set environment variables in Postman
 3. Execute requests in this order:
    ```
